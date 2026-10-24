@@ -12,12 +12,15 @@ I'm building hands-on experience in IT support, Windows Server administration, A
 - **Virtualization:** Hyper-V, virtual machines
 - **Tools:** PowerShell, Command Prompt, Cisco Packet Tracer, Wireshark
 
-## Featured Projects
+## IT Projects & Hands-On Labs
 
-### [Help Desk Ticketing & Troubleshooting](https://github.com/AllanKuk23/Help-Desk-Ticketing-and-Troubleshooting)
+### 💻 [Help Desk Ticketing & Troubleshooting](https://github.com/AllanKuk23/Help-Desk-Ticketing-and-Troubleshooting)
 
-Hands-on help desk troubleshooting scenarios using SysDesks and ServiceNow to practice incident management, technical investigation, documentation, and problem resolution.
+Hands-on IT troubleshooting and incident management using **SysDesks** and **ServiceNow**.
 
+**📋 Completed Labs**
+
+- **[Lab 01 — Warehouse Tablet Connectivity](https://github.com/AllanKuk23/Help-Desk-Ticketing-and-Troubleshooting/blob/main/labs/01-warehouse-tablet-connectivity/README.md)**
 ## Currently Working On
 
 - Completing my Associate degree in Network Administration — December 2026
