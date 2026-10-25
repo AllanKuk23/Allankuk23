@@ -21,6 +21,7 @@ Hands-on IT troubleshooting and incident management using **SysDesks** and **Ser
 **📋 Completed Labs**
 
 - **[Lab 01 — Warehouse Tablet Connectivity](https://github.com/AllanKuk23/Help-Desk-Ticketing-and-Troubleshooting/blob/main/labs/01-warehouse-tablet-connectivity/README.md)**
+- **[Lab 02 — Network Share Authentication Failure](https://github.com/AllanKuk23/Help-Desk-Ticketing-and-Troubleshooting/blob/main/labs/02-network-share-authentication/README.md)**
 ## Currently Working On
 
 - Completing my Associate degree in Network Administration — December 2026
