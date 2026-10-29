@@ -16,7 +16,9 @@ I'm building hands-on experience in IT support, Windows Server administration, A
 
 ### 💻 [Help Desk Ticketing & Troubleshooting](https://github.com/AllanKuk23/Help-Desk-Ticketing-and-Troubleshooting)
 
-Hands-on IT troubleshooting and incident management using **SysDesks** and **ServiceNow**.
+
+Hands-on Help Desk troubleshooting labs using **SysDesks**, along with IT ticketing and incident management practice in **ServiceNow**. I work through realistic technical support issues, document troubleshooting steps, and verify resolutions.
+
 
 **📋 Completed Labs**
 
